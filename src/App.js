@@ -1,4 +1,4 @@
-import './App.css';
+﻿import './App.css';
 import ChordsPage from './Pages/ChordsPage';
 import ScalesPage from "./Pages/ScalesPage";
 
